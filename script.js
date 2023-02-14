@@ -59,5 +59,5 @@ function copiar(){
 
 function limpiar(){
     mensaje.value = "";
-    mensaje.style.backgroundImage = "url(assets/Muñeco.png)"
+    mensaje.style.backgroundImage = "url(imagenes/Muñeco.png)"
 }

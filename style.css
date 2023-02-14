@@ -43,7 +43,7 @@ section {
 
 .mensaje {
     background: #F3F5FC;
-    background-image: url(assets/Muñeco.png);
+    background-image: url(imagenes/Muñeco.png);
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 25px;
